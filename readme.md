@@ -1,6 +1,4 @@
 
-Sure, here is a README file with the appropriate instructions for your students.
-
 Git and GitHub Exercise
 Welcome to this practical exercise on Git and GitHub. This exercise is designed to give you hands-on experience with common Git operations and to understand the process of collaborating on a project using Git and GitHub.
 
