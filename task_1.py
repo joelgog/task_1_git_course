@@ -46,6 +46,9 @@ def calculator():
     elif choice == '4':
         result = divide(num1, num2)
         print(f"{num1} / {num2} = {result}")
+    elif choice == '5':
+        result=exponentiate(num1, num2)
+        print(f"{num1}^{num2}={result}")
 
 if __name__ == "__main__":
     calculator()
