@@ -43,6 +43,8 @@ def read_code():
         return divide(x, y)
     elif s=='^':
         return exponentiate(x, y)
+    else:
+        raise ValueError('Unknown operation')
     
 while keep_running:
     print(read_code())
