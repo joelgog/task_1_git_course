@@ -13,7 +13,7 @@ def divide(x, y):
    if y != 0:  # Check for division by zero
         return x / y
    else:
-        return "Cannot divide by zero"
+        return "Cannot divide by zero."
 
 
 
